@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  *
  * @author Iván, Cons, Alejandro, Daniel
- * @version 1.0
+ * @version 1.1
  * @since 30-03-23
  * 
  */
